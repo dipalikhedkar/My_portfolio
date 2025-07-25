@@ -1,0 +1,108 @@
+nav{
+		border-radius:0px !important;
+		margin-bottom: -40px !important;
+	}
+	a:hover {color:yellow;}a:active{
+	color:blue;
+		
+	}
+.navbar-inverse {
+			background-color:hotpink;
+	}
+
+.divA{
+		padding:50px ;
+		padding-bottom:100px;
+}
+.fa{
+	color:initial;
+	font-size:inherit;
+	
+}
+#Aboutus{
+	
+	padding-top:30px;
+	padding-bottom:50px;
+}
+#Education{
+	padding-top:30px;
+	padding-bottom:50px;
+}		
+#ed{
+		padding:20px 30px;
+	/*	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); */
+	border:1px solid #dadada;
+}
+.ed1{
+	border-left:unset !important;
+	border-right:unset !important;
+}
+#mk{
+		background-color:#e4ff00;
+}
+#skills{
+	padding-top:30px;
+	padding-bottom:50px;
+	background-color:#e9ecef6b;
+	
+}
+.btn-danger{
+	width:200;
+	background-color:#4f66d9;
+	
+}
+#Contact{
+	padding-top:30px;
+	padding-bottom:50px;
+}
+footer{
+	padding:20px;
+	 background-color:#292c2f;
+	 color:#fff;
+}
+#media{
+	font-size:16px;
+	padding:10px;
+	float:right;
+	color:white;	
+}
+ html{
+	 scroll-behavior: smooth;
+ }
+ #mydiv{
+	 background-color:#292c2f;
+ }
+ #mydiv a , #mydiv i{
+	 color:white;
+	 font-size:16px;
+ }
+ #mydiv a{
+	margin-right:10px;
+ }
+ #mydiv{
+	 display: flex !important;
+	align-content: center;
+	padding: 20px 20px;
+ }
+ #AboutUs{
+	 background-color: #e9ecef6b;
+ }
+ #AboutUs img{
+	 width:300px;	
+ }
+ #AboutUs ul li{
+	 margin-bottom: 5px;
+ }
+ .btn-set{
+	 background-color: grey;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: unset;
+ }
